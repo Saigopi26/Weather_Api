@@ -136,7 +136,7 @@ Response:
 ### 2️⃣ Get Weather by City
 
 ```http
-GET /weather?city=New%20York
+GET /weather?city=Newyork
 ```
 
 #### Query Params
